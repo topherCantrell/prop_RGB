@@ -1,2 +1,5 @@
-# prop_RGB
-Propeller driver for the RGB matrix
+# Propeller RGB
+
+Propeller driver for the RGB matrix.
+
+![](art/rgbPinout.jpg)
